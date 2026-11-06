@@ -1,0 +1,71 @@
+FLASHLY - CONCEPTO DE LA APP
+Haz que tu campus pase.
+
+QUÉ ES
+Flashly es una app móvil social para la comunidad de la UTSV (Universidad Tecnológica del Sureste de Veracruz). Una vez al día, a una hora sorpresa, todo el campus recibe la misma alerta al mismo tiempo y cada persona tiene 2 minutos para mostrar lo que de verdad está haciendo, con la cámara trasera y la frontal a la vez. Para ver los momentos de los demás, primero hay que publicar el propio. Todo deja de mostrarse a las 24 horas.
+
+EL PROBLEMA
+Los alumnos pasan años en la misma escuela y apenas conocen a unos cuantos de su generación. Conviven casi solo con su grupo y las redes sociales que usan muestran a todo el mundo, menos a su propio campus. Además, en esas redes todo se ve posado y editado.
+
+LA IDEA CENTRAL
+Un solo momento compartido por todo el campus. No hay filtros ni poses, y nada se queda para siempre. Flashly convierte la vida diaria de la universidad en algo que todos ven y viven juntos, y ayuda a conocer a quién más está en el campus.
+
+CÓMO FUNCIONA
+1. El aviso sorpresa: una vez al día, a una hora distinta, llega la notificación "¡Es ahora!" a todos los usuarios al mismo tiempo.
+2. Ventana de 2 minutos: un anillo ámbar marca el tiempo para publicar.
+3. Doble cámara: se toma una foto con la cámara trasera y otra con la frontal. La frontal aparece como recuadro sobre la trasera.
+4. Si no publicas, no ves: el feed del día aparece desenfocado y bloqueado hasta que compartes tu momento.
+5. Publicar tarde: quien se pierde la ventana todavía puede publicar, pero su foto queda marcada como "tarde".
+6. 24 horas: los momentos dejan de mostrarse al día siguiente y el ciclo empieza de nuevo.
+
+FUNCIONES PRINCIPALES
+- Hoy: feed en tiempo real con los momentos del campus, filtrable entre "Todos" y "Siguiendo". Cada momento muestra autor, grupo, hora, lugar del campus, foto doble y "me gusta" (también con doble toque).
+- Descubrir: lugares con movimiento (Biblioteca, Cafetería, Cancha, Laboratorios, Aulas, Auditorio, Estacionamiento), personas del campus (primero las de tu grupo, con buscador y botón seguir) y eventos.
+- Eventos: actividades del campus con portada, lugar y horario. Puedes pedir un recordatorio 30 minutos antes. Los administradores (docentes) los publican desde el Panel de admin.
+- Chat del campus: un chat abierto que leen todos los alumnos y maestros verificados de la UTSV.
+- Perfil: foto, grupo, seguidores y seguidos. Ajustes de tema (claro, oscuro o sistema), texto grande, idioma (español e inglés), aviso del flash y aviso de privacidad.
+- Moderación: cualquier usuario puede reportar momentos y mensajes de forma anónima, y los administradores pueden quitar contenido.
+
+PARA QUIÉN
+Alumnos y maestros de la UTSV. El registro es con correo institucional y verificación, así que solo entra la comunidad real del campus.
+
+PRIVACIDAD
+Flashly guarda nombre, grupo, correo institucional, foto de perfil y las fotos publicadas. Los momentos dejan de mostrarse a las 24 horas y los datos no se comparten con terceros.
+
+DIFERENCIADORES
+- Es local y cerrada: solo tu campus, no todo internet.
+- Es sincronizada: todos publican en el mismo momento.
+- Es auténtica: dos cámaras, sin filtros y con poco tiempo para posar.
+- Es efímera: hoy está, mañana ya no. No hay presión por un perfil perfecto.
+- Es recíproca: para ver hay que participar.
+
+IDENTIDAD DE MARCA
+- Nombre: Flashly (antes CampusFlash).
+- Lema: "Haz que tu campus pase."
+- Colores: violeta #7C5CFF, magenta #C24FE0, rosa #FF4F8B y ámbar #FFC53D. El ámbar se reserva para el momento del flash y la ventana activa.
+- Tipografía: Inter.
+- Tono: directo, cercano y estudiantil, con frases cortas.
+- Ícono: una "F" con degradado violeta y rosa sobre fondo oscuro.
+
+TECNOLOGÍA
+Expo SDK 57, React Native 0.86, TypeScript, Expo Router, Zustand, Zod, Firebase (Authentication y Cloud Firestore en tiempo real), Cloudinary para las fotos, Reanimated y Jest. Tiene un modo demostración que funciona sin configuración, con compañeros de ejemplo. Se distribuye como APK de Android mediante EAS.
+
+ESTADO Y ORIGEN
+- Versión actual: 0.4.0.
+- Proyecto de la materia Desarrollo Móvil Integral, Ingeniería en Desarrollo y Gestión de Software, UTSV (Nanchital, Veracruz). Grupo 1001, docente Mtro. Isaías Gallegos Salvador.
+- También es la propuesta de emprendimiento del equipo en Integradora III.
+- Equipo: José Jamin García García, Jorge Israel Aguilera Rueda y Bárbara Alejandra Díaz Pérez.
+- La UTSV es el primer campus. La idea es llevarla a otras universidades.
+
+MATERIAL DE COMUNICACIÓN REALIZADO
+- Comercial de 30 s (oscuro neón, motion graphics).
+- Película de producto de 45 s, estilo keynote: teléfono 3D en negro cinematográfico. Su mensaje, en orden:
+  "Todos los días pasa algo en tu campus. Y casi nunca lo ves."
+  "Ahora. Una vez al día. A una hora sorpresa."
+  "Todo el campus. Al mismo tiempo."
+  "2 minutos. Para mostrar lo que de verdad estás haciendo."
+  "Dos cámaras. Cero filtros."
+  "Para ver el de todos, comparte el tuyo."
+  "24 h. Hoy está. Mañana, ya no."
+  "Momentos. Lugares. Personas. Todo tu campus, en una app."
+  "Flashly. Haz que tu campus pase. Primero en la UTSV."
